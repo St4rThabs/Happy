@@ -1,0 +1,34 @@
+:root {
+    font-size: 62.5%;
+}
+
+#page-landing {
+    background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%) no-repeat;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#container {
+    margin: auto;
+    width: 90%;
+}
+
+.location h1 visit p {
+    height: 16vh;
+    text-align: center;
+}
+
+.visit a {
+    width: 6rem;
+    height: 6rem;
+    background: #ffd666;
+    border: none;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    transition: background .200ms;
+}
